@@ -6,6 +6,27 @@
       "telefono": "12",
       "empresa": "12212",
       "id": 26
+    },
+    {
+      "nombre": "Aaron Carrizales",
+      "email": "aacarrizales@vivaro.com",
+      "telefono": "8117422221",
+      "empresa": "Vivaro Telcom",
+      "id": 27
+    },
+    {
+      "nombre": "Yadira Rios ",
+      "email": "yadira.riosde@gmail.com",
+      "telefono": "8180172161",
+      "empresa": "ODESSA",
+      "id": 28
+    },
+    {
+      "nombre": "Mario Olvera",
+      "email": "molvera@vivaro.com",
+      "telefono": "1234567890",
+      "empresa": "Vivaro Telcom",
+      "id": 29
     }
   ]
 }
